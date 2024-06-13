@@ -1,0 +1,28 @@
+﻿  GameEngine.cpp
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\RenderCore.h(183,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\CoreVariables.h(16,55): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\CoreVariables.h(16,55): warning C4244:         with
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\CoreVariables.h(16,55): warning C4244:         [
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\CoreVariables.h(16,55): warning C4244:             T=float
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\CoreVariables.h(16,55): warning C4244:         ]
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\CoreVariables.h(16,41): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\CoreVariables.h(16,41): warning C4244:         with
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\CoreVariables.h(16,41): warning C4244:         [
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\CoreVariables.h(16,41): warning C4244:             T=float
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\CoreVariables.h(16,41): warning C4244:         ]
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\MeshFilter.h(92,52): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\MeshFilter.h(97,32): warning C4267: аргумент: преобразование из "size_t" в "GLenum"; возможна потеря данных
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\GameEngine.cpp(148,32): warning C4305: =: усечение из "double" в "float"
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\GameEngine.cpp(169,25): warning C4305: =: усечение из "double" в "float"
+  MeshFilter.cpp
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\RenderCore.h(183,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\MeshFilter.h(92,52): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Qerty\source\repos\GameEngine\GameEngine\MeshFilter.h(97,32): warning C4267: аргумент: преобразование из "size_t" в "GLenum"; возможна потеря данных
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Создание кода
+  0 of 913 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+glew32s.lib(glew.obj) : warning LNK4099: "" PDB не найден с "glew32s.lib(glew.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  GameEngine.vcxproj -> C:\Users\Qerty\source\repos\GameEngine\x64\Release\GameEngine.exe
